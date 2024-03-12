@@ -1,0 +1,4 @@
+input(a)
+print("test문자--->%s,test숫자==>%d)
+input("자료를 입력==>")
+print("문자-->%20s-->숫자==>%-20d)
